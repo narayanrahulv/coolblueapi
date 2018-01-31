@@ -1,0 +1,21 @@
+C:\Users\2000\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\CoolblueApi.deps.json
+C:\Users\2000\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\CoolblueApi.runtimeconfig.json
+C:\Users\2000\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\CoolblueApi.runtimeconfig.dev.json
+C:\Users\2000\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\CoolblueApi.dll
+C:\Users\2000\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\CoolblueApi.pdb
+C:\Users\2000\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\CoolblueApi.csproj.CoreCompileInputs.cache
+C:\Users\2000\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\CoolblueApi.AssemblyInfoInputs.cache
+C:\Users\2000\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\CoolblueApi.AssemblyInfo.cs
+C:\Users\2000\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\CoolblueApi.dll
+C:\Users\2000\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\CoolblueApi.pdb
+C:\Users\rahul narayan\Documents\personal misc\TodoApi\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\CoolblueApi.deps.json
+C:\Users\rahul narayan\Documents\personal misc\TodoApi\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\CoolblueApi.runtimeconfig.json
+C:\Users\rahul narayan\Documents\personal misc\TodoApi\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\CoolblueApi.runtimeconfig.dev.json
+C:\Users\rahul narayan\Documents\personal misc\TodoApi\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\CoolblueApi.dll
+C:\Users\rahul narayan\Documents\personal misc\TodoApi\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\CoolblueApi.pdb
+C:\Users\rahul narayan\Documents\personal misc\TodoApi\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\CoolblueApi.csproj.CoreCompileInputs.cache
+C:\Users\rahul narayan\Documents\personal misc\TodoApi\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\CoolblueApi.AssemblyInfoInputs.cache
+C:\Users\rahul narayan\Documents\personal misc\TodoApi\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\CoolblueApi.AssemblyInfo.cs
+C:\Users\rahul narayan\Documents\personal misc\TodoApi\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\CoolblueApi.dll
+C:\Users\rahul narayan\Documents\personal misc\TodoApi\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\CoolblueApi.pdb
+C:\Users\rahul narayan\Documents\personal misc\TodoApi\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\CoolblueApi.csprojResolveAssemblyReference.cache
